@@ -1,1 +1,1 @@
-# basic-js-code
+console.log("App Version 1");
