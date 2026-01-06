@@ -1,1 +1,2 @@
-console.log("App Version 2 - Login Feature");
+console.log("App Version 2 - Hotfix");
+
